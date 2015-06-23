@@ -67,7 +67,7 @@ Cabe mencionar que no es un método operatorio ni un procedimiento definitivo en
               </dd>
               <dt>
                 <i class="fa fa-check"></i>
-                Banda Gástrica Ajustable(Actualmente este procedimiento ha sido superado)
+                Banda Gástrica Ajustable (Actualmente este procedimiento ha sido superado)
               </dt>
               <dd>
                 <div class="row service-content">
