@@ -45,7 +45,7 @@
                 </div>
                 <div class="text">
                   <a href="tecnicas.php"><h2>Derivación Biliopancreática</h2></a>
-                  <p>Consiste en dejar un estómago pequeño, derivando una gran parte de intestino </p>
+                  <p>Consiste en dejar un estómago pequeño, derivando una gran parte del intestino </p>
                 </div>
               </li>
               <li class="col-sm-6 col-md-3">

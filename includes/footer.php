@@ -27,22 +27,12 @@
           </div>
           <div class="col-sm-4 col-md-4 recent-posts">
             <div class="widget-icon"></div>
-            <h3 class="widget-title">Noticias</h3>
+            <h3 class="widget-title">Links de Interés</h3>
             <ul class="list-unstyled">
-              <?php
-              global $post;
-              $args = array( 'posts_per_page' => 3 );
-              $myposts = get_posts( $args );
-              foreach( $myposts as $post ) :  setup_postdata($post); ?> 
-                <li>
-                  <a href=" <?php echo get_permalink(); ?> " ><img src="/images/news_footer1.png"></a>
-                  <p>
-                    <?php echo substr(get_the_excerpt(), 0,60); ?>...<br><a href=" <?php echo get_permalink(); ?> " target="_blank">Leer más</a><br>
-                    <?php the_time('j \d\e F \d\e Y') ?>
-                  </p>
-                </li>
-              <?php endforeach; ?>
-
+              <a href="http://www.obesidad.net"></a><li>www.obesidad.net</li>
+              <a href="http://www.ipifa.org"></a><li>www.ipifa.org</li>
+              <a href="http://www.ifso.com"></a><li>www.ifso.com</li>
+              <a href="http://www.centio.com/"></a><li>www.centio.com</li>
             </ul>
           </div>
         </div>

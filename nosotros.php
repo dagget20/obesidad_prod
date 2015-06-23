@@ -13,7 +13,7 @@
           <div class="departments">Nosotros</div>
           <div class="about-us">
             <p><img src="images/about-us.jpg">
-              Luego de un entrenamiento integral en el año 2002 en la Clínica de Control de Peso y Tratamiento Quirúrgico de la Obesidad, fundada al sur de la Ciudad de México, D.F. por el doctor Rafael Alvarez Cordero, pionero de la cirugía de obesidad en Latinoamérica, el Dr. Ramiro Carbajal Nicho, motivado por las enseñanzas recibidas busca conformar un equipo multidisciplinario que ofrecen a cada paciente la atención personalizada que requiere y la orientación precisa para su caso.
+              Luego de un entrenamiento integral en el año 2002 en la Clínica de Control de Peso y Tratamiento Quirúrgico de la Obesidad, fundada al sur de la Ciudad de México, D.F. por el doctor Rafael Alvarez Cordero, pionero de la cirugía de obesidad en Latinoamérica, el <a href="/images/ramiro_carbajal_cv.pdf" target="_blank">Dr. Ramiro Carbajal Nicho</a>, motivado por las enseñanzas recibidas busca conformar un equipo multidisciplinario que ofrecen a cada paciente la atención personalizada que requiere y la orientación precisa para su caso.
             </p>
             <p>El Dr. Ramiro Carbajal ha podido reunir en este tiempo a Clínicos, endocrinólogos, cardiólogos, neumólogos, gastroenterólogos, psicólogos, psiquiatras, nutricionistas y cirujanos, para que el diagnóstico y tratamiento de la obesidad tenga el mejor resultado.</p>
 
@@ -27,6 +27,7 @@
                 <li>Visitas Domiciliarias. </li>
               </ul>
             </p>
+            <h3><a href="/images/ramiro_carbajal_cv.pdf" target="_blank">Dr. Ramiro Carbajal Nicho</a></h3>
           </div>            
           </section>
         </div>
