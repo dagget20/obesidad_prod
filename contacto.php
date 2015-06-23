@@ -6,8 +6,6 @@
     <!--Body-->
     <div class="container">
       <section class="main-section">
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3901.1916145088444!2d-77.0541481021905!3d-12.099031045221047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e1!4m5!1s0x9105c84de9ff25c7%3A0x4310d5fd3a64ab29!2sAurelio+Miro+Quesada+1050%2C+San+Isidro+15073!3m2!1d-12.0990363!2d-77.0518414!4m5!1s0x9105c84de9ff25c7%3A0x4310d5fd3a64ab29!2sAurelio+Miro+Quesada+1050%2C+San+Isidro+15073!3m2!1d-12.0990363!2d-77.0518414!5e0!3m2!1ses!2spe!4v1435035629473" 
         <div class="row">
           <div class="departments">Contacto</div>
         </div>

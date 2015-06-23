@@ -29,10 +29,10 @@
             <div class="widget-icon"></div>
             <h3 class="widget-title">Links de Interés</h3>
             <ul class="list-unstyled">
-              <a href="http://www.obesidad.net"></a><li>www.obesidad.net</li>
-              <a href="http://www.ipifa.org"></a><li>www.ipifa.org</li>
-              <a href="http://www.ifso.com"></a><li>www.ifso.com</li>
-              <a href="http://www.centio.com/"></a><li>www.centio.com</li>
+              <a href="http://www.obesidad.net"><li>www.obesidad.net</li></a>
+              <a href="http://www.ipifa.org"><li>www.ipifa.org</li></a>
+              <a href="http://www.ifso.com"><li>www.ifso.com</li></a>
+              <a href="http://www.centio.com/"><li>www.centio.com</li></a>
             </ul>
           </div>
         </div>

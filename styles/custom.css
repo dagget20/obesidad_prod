@@ -478,6 +478,10 @@
 	background-image: url(../images/recent-posts.png);
 }
 
+.recent-posts li {
+	text-align: center;
+}
+
 .recent-posts img {
 	float: left;
 	margin-right: 15px;
