@@ -1,7 +1,7 @@
     <?php require('includes/header.php') ?>
 
     <section class="page-title">
-      <div class="container"><h1>Noticias</h1></div>
+      <div class="container"><h1>Dietas</h1></div>
     </section>
 
     <div class="container">
@@ -10,7 +10,7 @@
 
         <?php
         global $post;
-        $args = array( 'posts_per_page' => 3 );
+        $args = array( 'posts_per_page' => 3, 'category'=>1 );
         $myposts = get_posts( $args );
         foreach( $myposts as $post ) :  setup_postdata($post); ?>
         

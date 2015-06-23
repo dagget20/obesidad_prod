@@ -82,7 +82,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="noticias.php">
+                  <a href="dietas.php">
                     <i class="fa fa-plus"></i>
                     Dietas
                   </a>
