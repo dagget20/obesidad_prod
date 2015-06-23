@@ -44,8 +44,8 @@
                   <a href="/tecnicas.php"><i class="fa fa-user-md"></i></a>
                 </div>
                 <div class="text">
-                  <a href="tecnicas.php"><h2>Banda Gástrica Ajustable</h2></a>
-                  <p>Es una banda inflable que se coloca alrededor del estómago, limitando la cantidad de alimentos</p>
+                  <a href="tecnicas.php"><h2>Derivación Biliopancreática</h2></a>
+                  <p>Consiste en dejar un estómago pequeño, derivando una gran parte de intestino </p>
                 </div>
               </li>
               <li class="col-sm-6 col-md-3">

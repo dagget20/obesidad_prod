@@ -82,6 +82,12 @@
                   </a>
                 </li>
                 <li>
+                  <a href="noticias.php">
+                    <i class="fa fa-plus"></i>
+                    Dietas
+                  </a>
+                </li>
+                <li>
                   <a href="contacto.php">
                     <i class="fa fa-plus"></i>
                     Contacto
