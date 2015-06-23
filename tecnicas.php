@@ -26,20 +26,20 @@ Cabe mencionar que no es un método operatorio ni un procedimiento definitivo en
                   </div>
                 </div>
               </dd>
-               <dt>
+              <dt>
                 <i class="fa fa-check"></i>
-                Banda Gástrica Ajustable
+                Derivación Biliopancreática
               </dt>
               <dd>
                 <div class="row service-content">
-                  <div class="col-md-3"><img class="service-pic" src="images/banda-gastrica-ajustable.jpg"></div>
+                  <div class="col-md-3"><img class="service-pic" src="images/derivacion-biliopancreatica.jpg"></div>
                   <div class="col-md-9 service-text">
-                    <p>La colocación de la banda es un procedimiento que se realiza por laparoscopía, con mínimas complicaciones y efectivo, con una pérdida de peso comparable con otras técnicas más complejas e invasivas. </p>
-                    <p>Los ajustes de la banda se realizan de acuerdo a las necesidades individuales de los pacientes en el postoperatorio, regulando en forma correcta el descenso de peso. Brindandole un gran ventaja respecto a otros procedimientos restrictivos gástricos. Se realiza con anestesia general, usualmente por vía laparoscópica, y dura aproximadamente 2hs. El alta normalmente se obtiene a las 24hs. de la hospitalización. </p>
+                    <p> Consiste en dejar un estómago pequeño, con una salida amplia, derivando una gran parte de intestino de modo que la bilis y el jugo pancreático solo se mezclen con la comida en los últimos 50 cm. de intestino delgado. Usualmente se extrae el estómago excluido (gastrectomía) al paso de la comida.</p>
+                    <p>Este procedimient permite una reducción de la cantidad que se puede comer, debido a la existencia de un estómago más pequeño. Este mecanismo solo es útil en los primeros meses del postoperatorio, no siendo el principal objetivo del procedimiento. A su vez permite una reducción importante de la absorción de los alimentos, debido a la derivación de gran parte del intestino delgado. Adicionalmente una disminución importantísima de la absorción de las grasas, debido a que prácticamente solo se absorben en los últimos 50 cms del intestino delgado, momento en que la que la bilis se mezcla con la comida. </p>
                   </div>
                 </div>
               </dd>
-                            <dt>
+              <dt>
                 <i class="fa fa-check"></i>
                 Gastrectomía Vertical
               </dt>
@@ -65,20 +65,20 @@ Cabe mencionar que no es un método operatorio ni un procedimiento definitivo en
                   </div>
                 </div>
               </dd>
-                            <dt>
+              <dt>
                 <i class="fa fa-check"></i>
-                Derivación Biliopancreática
+                Banda Gástrica Ajustable
               </dt>
               <dd>
                 <div class="row service-content">
-                  <div class="col-md-3"><img class="service-pic" src="images/derivacion-biliopancreatica.jpg"></div>
+                  <div class="col-md-3"><img class="service-pic" src="images/banda-gastrica-ajustable.jpg"></div>
                   <div class="col-md-9 service-text">
-                    <p> Consiste en dejar un estómago pequeño, con una salida amplia, derivando una gran parte de intestino de modo que la bilis y el jugo pancreático solo se mezclen con la comida en los últimos 50 cm. de intestino delgado. Usualmente se extrae el estómago excluido (gastrectomía) al paso de la comida.</p>
-                    <p>Este procedimient permite una reducción de la cantidad que se puede comer, debido a la existencia de un estómago más pequeño. Este mecanismo solo es útil en los primeros meses del postoperatorio, no siendo el principal objetivo del procedimiento. A su vez permite una reducción importante de la absorción de los alimentos, debido a la derivación de gran parte del intestino delgado. Adicionalmente una disminución importantísima de la absorción de las grasas, debido a que prácticamente solo se absorben en los últimos 50 cms del intestino delgado, momento en que la que la bilis se mezcla con la comida. </p>
+                    <p>La colocación de la banda es un procedimiento que se realiza por laparoscopía, con mínimas complicaciones y efectivo, con una pérdida de peso comparable con otras técnicas más complejas e invasivas. </p>
+                    <p>Los ajustes de la banda se realizan de acuerdo a las necesidades individuales de los pacientes en el postoperatorio, regulando en forma correcta el descenso de peso. Brindandole un gran ventaja respecto a otros procedimientos restrictivos gástricos. Se realiza con anestesia general, usualmente por vía laparoscópica, y dura aproximadamente 2hs. El alta normalmente se obtiene a las 24hs. de la hospitalización. </p>
                   </div>
                 </div>
               </dd>
-               <dt>
+              <dt>
                 <i class="fa fa-check"></i>
                  Marcapaso Gástrico Implantable
               </dt>
