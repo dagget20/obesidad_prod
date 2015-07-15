@@ -17,17 +17,31 @@
             </p>
             <p>El Dr. Ramiro Carbajal ha podido reunir en este tiempo a Clínicos, endocrinólogos, cardiólogos, neumólogos, gastroenterólogos, psicólogos, psiquiatras, nutricionistas y cirujanos, para que el diagnóstico y tratamiento de la obesidad tenga el mejor resultado.</p>
 
-            <p>Cada especialista está debidamente entrenado en la complejidad e integralidad del tratamiento de la obesidad, y los métodos de diagnóstico y tratamiento que emplean se ajustan a las más estrictas normas éticas y científicas, con el único fin de ofrecer los mejores adelantos de la ciencia a quien sufre obesida.</p>
+            <p>Cada especialista está debidamente entrenado en la complejidad e integralidad del tratamiento de la obesidad, y los métodos de diagnóstico y tratamiento que emplean se ajustan a las más estrictas normas éticas y científicas, con el único fin de ofrecer los mejores adelantos de la ciencia a quien sufre obesidad.</p>
+
+            <p>
+              De tal forma nuestro equipo médico está especializado en los siguientes tratamientos:
+              <ul>
+                <li>Enfermedades esofágicas</li>
+                <li>Enfermedades del estómago</li>
+                <li>Enfermedades del hígado y vías biliares</li>
+                <li>Cirugía de vesícula biliar</li>
+                <li>Enfermedades del colon</li>
+                <li>Hernias abdominales</li>
+                <li>Cirugía bariátrica y diabetes</li>
+                <li>Orientación nutricional y manejo de suplementos nutricionales</li>
+              </ul>
+            </p>
 
             <p>La unidad se responsabiliza de la asistencia específica en todas las áreas de actividad:
               <ul>
                 <li>Consulta externa</li>
                 <li>Sesiones quirúrgicas</li>
                 <li>Camas de hospitalización</li>
-                <li>Visitas Domiciliarias. </li>
+                <li>Visitas Domiciliarias</li>
               </ul>
             </p>
-            <h3><a href="/images/ramiro_carbajal_cv.pdf" target="_blank">Dr. Ramiro Carbajal Nicho</a></h3>
+            <h3><a href="/images/CURRICULUM_RAMIRO_CARBAJAL_CV.pdf" target="_blank">Dr. Ramiro Carbajal Nicho</a></h3>
           </div>            
           </section>
         </div>
